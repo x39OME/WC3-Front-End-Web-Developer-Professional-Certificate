@@ -1,9 +1,7 @@
 # WC3 Front-End Web Developer Professional Certificate
 
 
-# IBM-Front-End-Developer-Professional-Certificate
-
-<img src="./w3c.png">
+<img style='width:300px' src="./w3c.png">
 
 - This repo contains all of 8 courses in the Coursera Professional Certificate: [W3C Front-End Web Developer Professional Certificate]()
 
