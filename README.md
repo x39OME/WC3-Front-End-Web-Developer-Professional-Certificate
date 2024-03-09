@@ -3,7 +3,7 @@
 
 <img style='width:300px' src="./w3c.png">
 
-- This repo contains all of 5 courses in the Coursera Professional Certificate: [W3C Front-End Web Developer Professional Certificate]()
+- This repo contains all of 5 courses in the EDx Professional Certificate: [W3C Front-End Web Developer Professional Certificate]()
 
 ## Table of Content
 
