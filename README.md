@@ -10,7 +10,7 @@
 <details>
 <summary><b>Course 1: </b><a href=""><b>CSS Basics </b></a></summary>
 
-  * Week 1: 
+  * Module 1: Getting started with CSS 
   * Week 2: 
   * Week 3: 
   * Week 4: 
