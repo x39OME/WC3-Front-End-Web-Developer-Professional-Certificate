@@ -19,10 +19,13 @@
 <details>
 <summary><b>Course 1: </b><a href=""><b>HTML5 and CSS Fundamentals</b></a></summary>
 
-  * Week 1: 
-  * Week 2: 
-  * Week 3: 
-  * Week 4: 
+  * Module 1: My first Web page
+  * Module 2: Attributes, images and links
+  * Module 3: Adding style with CSS
+  * Module 4: Fixing and debugging
+  * Module 5: More HTML and CSS
+  * Module 6: Basics of page layout
+
 </details>
 <details>
 <summary><b>Course 1: </b><a href=""><b>HTML5 Coding Essentials and Best Practices</b></a></summary>
